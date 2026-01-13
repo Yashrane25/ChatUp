@@ -39,17 +39,17 @@ This project demonstrates **real time communication using WebSockets** with a cl
 
 ### Install dependencies
 
-    #### 1.Clone the repository
+     1.Clone the repository
            git clone https://github.com/Yashrane25/ChatUp<br>
            cd ChatUp
 
-    #### 2.Install dependencies
+     2.Install dependencies
            npm install
 
-    #### 3.Start the application
+     3.Start the application
            npm run dev
 
-    #### 4.Open in browser
+     4.Open in browser
            http://localhost:4000
 
 
