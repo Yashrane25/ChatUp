@@ -40,7 +40,7 @@ This project demonstrates **real time communication using WebSockets** with a cl
 ### 2️⃣ Install dependencies
 
 #### Clone the repository
-git clone https://github.com/Yashrane25/ChatUp
+git clone https://github.com/Yashrane25/ChatUp<br>
 cd ChatUp
 
 #### Install dependencies
