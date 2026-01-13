@@ -37,19 +37,19 @@ This project demonstrates **real time communication using WebSockets** with a cl
 
 ## ⚙️ Installation and Setup
 
-### 2️⃣ Install dependencies
+### Install dependencies
 
-#### 1. Clone the repository
-git clone https://github.com/Yashrane25/ChatUp<br>
-cd ChatUp
+    #### 1. Clone the repository
+            git clone https://github.com/Yashrane25/ChatUp<br>
+            cd ChatUp
 
-#### 2. Install dependencies
-npm install
+    #### 2. Install dependencies
+            npm install
 
-#### 3. Start the application
-npm run dev
+    #### 3. Start the application
+            npm run dev
 
-#### 4. Open in browser
-http://localhost:4000
+    #### 4. Open in browser
+            http://localhost:4000
 
 
